@@ -1,5 +1,5 @@
 {
-    "name": "nameisp/api3-lib",
+    "name": "emild/api3-lib",
     "description": "API v.3.0 client",
     "type": "library",
     "require": {
